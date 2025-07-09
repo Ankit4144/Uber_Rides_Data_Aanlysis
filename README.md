@@ -76,23 +76,23 @@ To identify when, where, and why most ride requests go unfulfilled, and to propo
 This bar chart displays the total number of requests categorized by status — Completed, Cancelled, and No Cars Available.  
 It clearly highlights that a large number of ride requests are not successfully fulfilled.
 
-![Trip Status Distribution](Screenshots/Trip_Status_Distribution.png)
+![Trip Status Distribution](Trip_Status_Distribution.png)
 
 ### 2. Trip status by time slot and pickup point
 This visualization compares trip status (Completed, Cancelled, No Cars Available) across different time slots — Morning, Afternoon, Evening, and Night.  
 Evening and Night show higher cancellation and unassigned rates, indicating a supply-demand mismatch.
 
-![Trip Trend Across Time Slots](Screenshots/Trip_trend_across_timeslots.png)
+![Trip Trend Across Time Slots](Trip_trend_across_timeslots.png)
 
 ### 3. Trip Duration Disrtribution
 The Trip Duration follows a bell shaped curved, hence it is normally distributed, most trip duration falls between 40-60 mins. 
 
-![Trip Duration Disrtribution](Screenshots/Trip_Duration.png) 
+![Trip Duration Disrtribution](Trip_Duration.png) 
 
 
 ### **Excel Dashboard**
 
-![Excel_dashboard](Screenshots/Ecel_Dashboard.png)
+![Excel_dashboard](Excel_Dashboard.png)
 
 These visuals enabled intuitive storytelling around when and where demand-supply mismatches occurred.
 
