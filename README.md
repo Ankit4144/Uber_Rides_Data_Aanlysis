@@ -94,6 +94,19 @@ The Trip Duration follows a bell shaped curved, hence it is normally distributed
 
 ![Excel_dashboard](Excel_Dashboard.png)
 
+
+### **Insights from SQL**
+
+### 1. Peak Request Hours
+Top 10 most Request Hours and there time slot
+
+![Peak_Hours](Peak_hours.png)
+
+### 2. Driver Performance Analysis
+Top 5 Drivers, who have the most number of Sucessfull Trips
+
+![Driver_Performance](Driver_Performance_Analysis.png)
+
 These visuals enabled intuitive storytelling around when and where demand-supply mismatches occurred.
 
 ---
@@ -103,6 +116,7 @@ These visuals enabled intuitive storytelling around when and where demand-supply
 2. **Incentivize drivers near Airport zones** to reduce unassigned trip count.
 3. **Optimize city pickups** by reducing wait time and matching efficiency.
 4. **Collect trip feedback** post-completion to understand dissatisfaction causes.
+5. **Encourage top drivers** by giving them extra bonuses/perks
 ---
 
 ## Conclusion
