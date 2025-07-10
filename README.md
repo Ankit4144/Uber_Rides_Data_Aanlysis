@@ -5,7 +5,7 @@ This project focuses on analyzing Uber ride request data to identify inefficienc
 
 The goal was to clean the data, explore it visually and statistically, and derive actionable insights that could guide operational improvements for Uber or similar ride-hailing platforms.
 
-The workflow included cleaning timestamps in Python (Pandas), categorizing request times into day-parts in Excel, conducting EDA and statistical tests in Python, and exploring further aggregations and trends in SQL. Visualizations were created using Seaborn and Matplotlib to aid storytelling. The final outcome was a comprehensive set of findings on cancellation patterns, time-based demand spikes, and pickup point inefficiencies, alongside recommendations to optimize driver allocation and improve user experience.
+The workflow included cleaning and categorizing request times into day-parts in Excel, conducting EDA in Python, and exploring further aggregations and trends in SQL. Visualizations were created using Seaborn and Matplotlib to aid storytelling. The final outcome was a comprehensive set of findings on cancellation patterns, time-based demand spikes, and pickup point inefficiencies, alongside recommendations to optimize driver allocation and improve user experience.
 
 ---
 
