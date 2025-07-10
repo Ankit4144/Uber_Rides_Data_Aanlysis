@@ -1,7 +1,7 @@
 # Uber Ride Request Analysis: Data Storytelling & Operational Insights
 
 ## Project Summary
-This project focuses on analyzing Uber ride request data to identify inefficiencies in operations, specifically regarding trip cancellations and unassigned ride requests. The dataset consists of over 6,700 entries detailing ride request information, such as pickup location, request time, driver assignment, and trip status.
+This project focuses on analyzing Uber ride request data to identify inefficiencies in operations, specifically regarding trip cancellations and unassigned ride requests. The dataset consists of over 6,700 entries detailing ride request information, such as pickup location, request time, drop time, driver assignment, and trip status.
 
 The goal was to clean the data, explore it visually and statistically, and derive actionable insights that could guide operational improvements for Uber or similar ride-hailing platforms.
 
