@@ -49,12 +49,12 @@ To identify when, where, and why most ride requests go unfulfilled, and to propo
 ---
 
 ## Insights and Findings
-- **Evening and Night slots** show significantly higher cancellations and unassigned trips.
+- **Evening and Afternoon slots** show least activity in trips.
 - **City pickups** have more cancellations; **Airport pickups** see more unassigned rides.
-- Most successful trips occur in the **Morning and Afternoon**.
-- **Trip durations** are typically 10–20 minutes, but Airport trips are longer and more variable.
-- Demand spikes on **Fridays and Mondays**, suggesting the need for dynamic driver allocation.
-- **Cancellations peak** during high-demand hours, highlighting a possible driver shortfall.
+- Most successful trips occur in the **Morning and Night**.
+- **Trip durations** are typically 40–60 minutes, but Airport trips are longer and more variable.
+- Demand spikes on **Wednesdays and Mondays**, suggesting the need for dynamic driver allocation especially in Wednesdays.
+- **Cancellations peak** during high-demand morning hours, highlighting a possible driver shortfall.
 
 ---
 
@@ -95,7 +95,7 @@ The Trip Duration follows a bell shaped curved, hence it is normally distributed
 ![Excel_dashboard](Excel_Dashboard.png)
 
 
-### **Insights from SQL**
+### **Findings from SQL**
 
 ### 1. Peak Request Hours
 Top 10 most Request Hours and there time slot
